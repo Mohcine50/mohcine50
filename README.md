@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Mohcine aka Shegami<br>I am self-taught developer<br>I'm currently using Mern Stack<br>I am discovering  more things about django and Golang <br> >>Learning never exhausts the mind.
+I am Mohcine aka Shegami<br>I am self-taught developer<br>I am discovering  more things about django and Golang <br> >>Learning never exhausts the mind.
 
 
 ## 🌐 Socials:
