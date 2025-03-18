@@ -1,1 +1,1 @@
-I am currently a data science student. I have gained a year and a half of experience as a full-stack developer, including five months of internship at IronDev and one year of professional experience at Goaluin and Evold. Passionate about learning and innovation, I am highly motivated to develop my skills and contribute to ambitious projects.
+WELCOME
